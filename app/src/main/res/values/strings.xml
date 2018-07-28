@@ -1,3 +1,56 @@
 <resources>
-    <string name="app_name">My RecyclerView Application</string>
+    <string name="app_name">My Recycler View</string>
+
+    <string name="quote1">Keep your eyes on the stars, and your feet on the ground.</string>
+    <string name="quote2">You are never too old to set another goal or to dream a new dream.</string>
+    <string name="quote3">It does not matter how slowly you go as long as you do not stop.</string>
+    <string name="quote4">A creative man is motivated by the desire to achieve, not by the desire to beat others.</string>
+    <string name="quote5">Be miserable. Or motivate yourself. Whatever has to be done, it is always your choice.</string>
+    <string name="quote6">Problems are not stop signs, they are guidelines.</string>
+    <string name="quote7">Be kind whenever possible. It is always possible.</string>
+    <string name="quote8">Do your work with your whole heart, and you will succeed - there is so little competition.</string>
+    <string name="quote9">With the new day comes new strength and new thoughts.</string>
+    <string name="quote10">We should not give up and we should not allow the problem to defeat us.</string>
+
+
+    <string name="writer1">Theodore Roosevelt</string>
+    <string name="writer2">Les Brown</string>
+    <string name="writer3">Confucius</string>
+    <string name="writer4">Ayn Rand</string>
+    <string name="writer5">Wayne Dyer</string>
+    <string name="writer6">Robert H. Schuller</string>
+    <string name="writer7">Dalai Lama</string>
+    <string name="writer8">Elbert Hubbard</string>
+    <string name="writer9">Eleanor Roosevelt</string>
+    <string name="writer10">A. P. J. Abdul Kalam</string>
+
+
+
+    <string-array name="quotes_array">
+        <item>@string/quote1</item>
+        <item>@string/quote2</item>
+        <item>@string/quote3</item>
+        <item>@string/quote4</item>
+        <item>@string/quote5</item>
+        <item>@string/quote6</item>
+        <item>@string/quote7</item>
+        <item>@string/quote8</item>
+        <item>@string/quote9</item>
+        <item>@string/quote10</item>
+    </string-array>
+
+    <string-array name="writers_array">
+        <item>@string/writer1</item>
+        <item>@string/writer2</item>
+        <item>@string/writer3</item>
+        <item>@string/writer4</item>
+        <item>@string/writer5</item>
+        <item>@string/writer6</item>
+        <item>@string/writer7</item>
+        <item>@string/writer8</item>
+        <item>@string/writer9</item>
+        <item>@string/writer10</item>
+    </string-array>
+
 </resources>
+
