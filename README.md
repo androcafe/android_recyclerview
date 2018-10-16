@@ -8,12 +8,15 @@ In this project I have included two textview for each row and images you can see
 
 <b>Steps to implement recyclerview is af follows:</b>
 
-<b>1. Gradle Scripts-build.gradle and inside dependencies</b>
+<b> 1. Gradle Scripts-build.gradle and inside dependencies </b><br>
       dependencies { 
                compile "com.android.support:recyclerview-v7:23.0.1“
        }<br><br>
        
-<b>2. In Android a RecyclerView needs to have a Layout Manager and an Adapter to be instantiated. Layout Manager is a very new concept introduced in RecyclerView for defining the type of Layout which RecyclerView should use. </b><br><br>
+<b> 2. Define Recyclerview in activity. </b><br><br>
+<b> 3. Set Latyout to recyclerview </b><br>
+Layout Manager is a very new concept introduced in RecyclerView for defining the type of Layout which RecyclerView should use.
+     <br><br>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/35371687/46991877-5384b000-d125-11e8-879c-0c52245a6c06.png" width="400px"</img> 
