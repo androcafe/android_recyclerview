@@ -12,12 +12,10 @@ In this project I have included two textview for each row and images you can see
       dependencies { 
                compile "com.android.support:recyclerview-v7:23.0.1“
        }<br><br>
-       
 <b> 2. Define Recyclerview in activity. </b><br><br>
 <b> 3. Set Latyout to recyclerview </b><br>
 Layout Manager is a very new concept introduced in RecyclerView for defining the type of Layout which RecyclerView should use.
      <br><br>
-     
 <b> 4. create a CustomAdapter class and extends RecyclerView.Adapter class with ViewHolder in it.</b><br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/35371687/46991877-5384b000-d125-11e8-879c-0c52245a6c06.png" width="400px"</img> 
