@@ -10,7 +10,7 @@ In this project I have included two textview for each row and images you can see
 
 <b> 1. Gradle Scripts-build.gradle and inside dependencies </b><br>
       dependencies { 
-               compile "com.android.support:recyclerview-v7:23.0.1“
+               implementation "com.android.support:recyclerview-v7:23.0.1“
        }<br><br>
 <b> 2. Define Recyclerview in activity. </b><br><br>
 <b> 3. Set Latyout to recyclerview </b><br>
